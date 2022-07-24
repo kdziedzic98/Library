@@ -1,0 +1,1 @@
+# Using a free API that provides spaceflights related news, application is able to load resources on the site and user can save any article to library. What is more, user has opportunity to decide how many articles application should fetch using input or infinite scroll.
